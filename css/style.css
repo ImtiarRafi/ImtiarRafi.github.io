@@ -77,3 +77,17 @@ body{
 /* on screen size with maximum 768px media query will work */
 /* the condition is the image in the img-container will have max width 50% of the screen width */
 /* making it a block to center its position and adding 0 margin to top-bottom and auto margin horizontally */
+
+.research-container{
+  background-color: #13365a;
+  margin: auto;
+}
+.project-container{
+  background-color: #061524;
+  margin: auto;
+}
+
+.card-body-project:hover{
+  background-color: #00418660;
+  transition: background 0.5 ease;
+}

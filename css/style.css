@@ -91,3 +91,21 @@ body{
   background-color: #00418660;
   transition: background 0.5 ease;
 }
+
+.contact-container{
+  background-color: #0b3d72;
+  text-align: center;
+}
+.footer-container{
+  background-color: #000f1f;
+}
+.quote-style{
+  text-align: center;
+  color: aliceblue;
+  font-style: italic;
+}
+
+.footer{
+  display: inline-block;
+  text-align: center;
+}

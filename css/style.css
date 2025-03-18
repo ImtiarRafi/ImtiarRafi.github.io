@@ -30,7 +30,7 @@ body{
 
 @media (max-width:768px){
   .myimage-container img{
-    max-width: 35%;
+    max-width: 55%;
     display: block;
     margin: 0 auto;
   }
@@ -69,7 +69,7 @@ body{
 }
 @media (max-width:768px){ 
   .img-container img{
-    max-width: 40%;
+    max-width: 50%;
     display: block;
     margin: 0 auto;
   }
